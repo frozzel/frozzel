@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working to become a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring MongoDB & React.
 - ⚡ In my free time I solve problems on CodeWars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dennis-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://linkedin.com/in/dennis-hickox-1b0a10227))
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dennis-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)
 
 ---
 
