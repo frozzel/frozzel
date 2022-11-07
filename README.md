@@ -1,4 +1,4 @@
-![Banner](https://www.techmindz.com/wp-content/uploads/2021/05/4-Powerful-technologies-in-1-MERN-STACK.jpg)
+![Banner](https://www.karmickinstitute.com/images/mern-stack-banner.jpg)
 
 ### :man_technologist: &nbsp; Dennis Hickox :
 
