@@ -1,4 +1,4 @@
-![Banner](https://www.karmickinstitute.com/images/mern-stack-banner.jpg)
+![Banner](https://github.com/frozzel/frozzel/blob/bf59f45d16828e49511240cac5efaf575112cbc2/programming_code_technology_computerwebsite_banner_432008923.jpg)
 
 ### :man_technologist: &nbsp; Dennis Hickox :
 
