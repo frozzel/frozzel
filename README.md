@@ -1,4 +1,4 @@
-<p align="center"><img scr="https://github.com/frozzel/frozzel/blob/bf59f45d16828e49511240cac5efaf575112cbc2/programming_code_technology_computerwebsite_banner_432008923.jpg"></p>
+<p align="center"><img scr="https://github.com/frozzel/frozzel/blob/bf59f45d16828e49511240cac5efaf575112cbc2/programming_code_technology_computerwebsite_banner_432008923.jpg" alt="Material logo></p>
 
 ---
 
