@@ -1,4 +1,4 @@
-![Banner](https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg.webp)
+![Banner](https://www.techmindz.com/wp-content/uploads/2021/05/4-Powerful-technologies-in-1-MERN-STACK.jpg)
 
 ### :man_technologist: &nbsp; Dennis Hickox :
 
