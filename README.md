@@ -1,4 +1,4 @@
-
+![Banner](https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg)
 
 ### :man_technologist: &nbsp; Dennis Hickox :
 
