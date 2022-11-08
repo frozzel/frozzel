@@ -2,14 +2,11 @@
 
 ---
 
-### :man_technologist: &nbsp; Dennis Hickox :
+### About Dennis Hickox :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta.
+Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
 
-- 🔭 I’m working to become a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring MongoDB & React.
-- ⚡ In my free time I solve problems on CodeWars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dennis_Hickox-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)
+-  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dennis_Hickox-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)
 
 ---
 
