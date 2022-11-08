@@ -8,6 +8,8 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dennis_Hickox-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![SALESFORCE CERT](https://img.shields.io/badge/Salesforce-Certifications-blue)](https://trailblazer.me/id/dhickox1)
 
+[Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
