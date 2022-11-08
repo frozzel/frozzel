@@ -6,7 +6,7 @@
 
 Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dennis_Hickox-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)[![SALESFORCE CERT](https://img.shields.io/badge/-Salesforce_Cert-blue?style=flat&logo=Linkedin&logoColor=white)](https://trailblazer.me/id/dhickox1)
+[![Linkedin Badge](https://img.shields.io/badge/-Dennis_Hickox-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![SALESFORCE CERT](https://img.shields.io/badge/Salesforce-Certifications-blue)](https://trailblazer.me/id/dhickox1)
 
 ---
 
