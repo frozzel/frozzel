@@ -42,3 +42,4 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
