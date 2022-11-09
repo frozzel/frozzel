@@ -13,7 +13,7 @@
 ---
 
 <div>
-<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="100%" ></a></div>
+<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="center" height="" width="100%" ></a></div>
 
 --
 
@@ -24,7 +24,7 @@
 ---
   
  <div> 
- <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="left" height="300" width="50%" ></a>
+ <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="center" height="" width="100%" ></a></div>
   
 ---
   
@@ -34,36 +34,15 @@
   
 ---
    
- 
- 
- <br  />
-
-
-
-
----
-
- <div> 
- <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="left" height="" width="48%" ></a></div>
+<div> 
+ <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="center" height="" width="100%" ></a></div>
 WEATHER DASHBOARD
 
    Weather dashboard to display current and five day forecast based on users city of choose!
  
- 
-<br  />
-
 ---
 
- <div> 
- <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="left" height="" width="48%" ></a></div>
-FLYGUYS
 
-   A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
- 
- 
- <br  />
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
