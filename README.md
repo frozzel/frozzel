@@ -11,7 +11,7 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 
 ---
 
-<img scr="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png  width: 50%;">(https://github.com/frozzel/KETORIFIC)
+<img scr="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" width: 50%;/>(https://github.com/frozzel/KETORIFIC)
 
 
 ### 🛠 &nbsp;Languages and Tools :
