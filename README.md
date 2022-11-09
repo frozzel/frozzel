@@ -17,7 +17,7 @@
 KETORIFIC
 
    CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication. 
-<br></br>
+<br  />
   
 ---  
   
@@ -28,7 +28,7 @@ FLYGUYS
    A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
  
  
- <br></br>
+ <br  />
 
 ---
 
@@ -39,7 +39,7 @@ WEATHER DASHBOARD
    Weather dashboard to display current and five day forecast based on users city of choose!
  
  
- <br></br>
+<br  />
 
 ---
 
@@ -50,7 +50,7 @@ FLYGUYS
    A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
  
  
- <br></br>
+ <br  />
 
 ---
 
