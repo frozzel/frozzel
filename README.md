@@ -19,7 +19,11 @@
 
 ### KETORIFIC
 
-   CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.
+  CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie.
+
+  Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.
+
+  The Keto diet trend has a massive hold on the healthy diet and exersise market. This is a great oppertunity to provide a service for their consumption!
 
 ---
   
@@ -30,7 +34,9 @@
   
 ### FLYGUYS
 
-   A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
+  A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
+
+  As a member of the flyguys site, the user can have an interactive experience by creating a personal profile, posting personal drone footage, attending and/or creating meetups with the drone community locally or internationally.
   
 ---
    
@@ -45,7 +51,33 @@
  
 ---
 
+<div> 
+ <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="100%" ></a></div>
+ 
+ ---
+ 
+###  CupOTears
 
+  When you arrive to the site you will see a search bar to search popular coffee beverages from around the world. Explore some of your favorite beverages or check out some new ones. The autocomplete feature displays a drop down list of available drinks to search. If you have found yourself on our site, you must love coffee as much as we do. So take a look and find yourself the perfect drink to pour your tears into. Once you choose a beverage to search, the results will diplay on the right side of the page with ,a detailed description of the drink, it's ingredients, nutrition facts, and a beautiful image of the beverage. The search results are pulled from calling two different server-side APIs. SampleApis gave us the description, image, and ingredients of each coffee drink and Nutritionix provided the results for the nutrition facts. We've also included a Coffee Notes section where you can record which drinks you are interested in trying or just anything you want to jot down. The notes will be displayed in your computer's local storage so when you return to the page your notes will still be there.
+ 
+---
+
+<div> 
+ <a href="http://frozzel.github.io/GlobalEquity/"><img src="https://github.com/frozzel/GlobalEquity/blob/main/scr/Shot.png" align="center" height="" width="100%" ></a></div>
+ 
+ ---
+ 
+### GLOBAL EQUITY
+
+  Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
+-Learn testing with TDD and gain more Node JS skills.
+
+-The Profile builder creates a Web page based on user input of thier projects team.
+
+-Quickly generate Development teams basic information.
+ 
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -70,12 +102,6 @@
 
 </p>
 
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frozzel&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
