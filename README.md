@@ -13,7 +13,7 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 
 <div>
 <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a></div>
-### KETORIFIC :
+KETORIFIC
 
 CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.  The Keto diet trend has a massive hold on the healthy diet and exersise market. This is a great oppertunity to provide a service for their consumption!
 <br></br>
@@ -21,7 +21,13 @@ CMS-style blog site similar to Wordpress where keto diet seekers can publish rec
 ---  
   
  <div> 
- <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="right" height="" width="48%" ></a></div><br>
+ <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="left" height="" width="48%" ></a></div>
+FLYGUYS
+
+A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.  As a member of the flyguys site, the user can have an interactive experience by creating a personal profile, posting personal drone footage, attending and/or creating meetups with the drone community locally or internationally.
+ 
+ 
+ <br></br>
 
 ---
 
