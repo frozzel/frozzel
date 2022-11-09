@@ -71,11 +71,18 @@
 
   Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
--Learn testing with TDD and gain more Node JS skills.
+  Learn testing with TDD and gain more Node JS skills.  The Profile builder creates a Web page based on user input of thier projects team.  Quickly generate Development teams basic information.
+ 
+---
 
--The Profile builder creates a Web page based on user input of thier projects team.
+<div> 
+ <a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="100%" ></a></div>
+ 
+ ---
+ 
+### CLASS NOTE TAKER
 
--Quickly generate Development teams basic information.
+  Application for writing and saving notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  My mootivation was to bring together both front end and back end user/server enviroment with express and heroku!  This project will help me and other students save and track there class notes!
  
 ---
 
