@@ -10,8 +10,8 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227) 
 
 ---
-
-<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a>   <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="right" height="" width="48%" ></a>
+<div>
+<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a>   <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="right" height="" width="48%" ></a></div>
 
 ---
 
