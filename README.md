@@ -15,7 +15,7 @@
 <div>
 <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="center" height="" width="100%" ></a></div>
 
---
+---
 
 ### KETORIFIC
 
@@ -36,7 +36,10 @@
    
 <div> 
  <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="center" height="" width="100%" ></a></div>
-WEATHER DASHBOARD
+ 
+ ---
+ 
+### WEATHER DASHBOARD
 
    Weather dashboard to display current and five day forecast based on users city of choose!
  
