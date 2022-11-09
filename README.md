@@ -1,11 +1,11 @@
 <div>
-<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/frozzel/blob/bf59f45d16828e49511240cac5efaf575112cbc2/programming_code_technology_computerwebsite_banner_432008923.jpg" align="center" height="" width="100%" ></a></div>
+<a href="https://linkedin.com/in/dennis-hickox-1b0a10227"><img src="https://github.com/frozzel/frozzel/blob/bf59f45d16828e49511240cac5efaf575112cbc2/programming_code_technology_computerwebsite_banner_432008923.jpg" align="center" height="" width="100%" ></a></div>
 
 ---
 
 ### About Dennis Hickox :
 
-Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
+  Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227) 
@@ -16,7 +16,7 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a></div>
 KETORIFIC
 
-CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.  The Keto diet trend has a massive hold on the healthy diet and exersise market. This is a great oppertunity to provide a service for their consumption!
+    CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication. 
 <br></br>
   
 ---  
@@ -25,7 +25,18 @@ CMS-style blog site similar to Wordpress where keto diet seekers can publish rec
  <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="left" height="" width="48%" ></a></div>
 FLYGUYS
 
-A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.  As a member of the flyguys site, the user can have an interactive experience by creating a personal profile, posting personal drone footage, attending and/or creating meetups with the drone community locally or internationally.
+    A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage.
+ 
+ 
+ <br></br>
+
+---
+
+ <div> 
+ <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="left" height="" width="48%" ></a></div>
+FLYGUYS
+
+     Weather dashboard to display current and five day forecast based on users city of choose!
  
  
  <br></br>
