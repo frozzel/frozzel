@@ -11,10 +11,11 @@ Motivated Full Stack Web Developer and Junior Salesforce Administrator looking t
 
 ---
 <div>
-<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a>
+<a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="left" height="" width="48%" ></a></div>
 ### About Dennis Hickox :
 
-Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.</div>
+Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
+<br>
   
  <div> 
  <a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="right" height="" width="48%" ></a></div><br>
