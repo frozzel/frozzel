@@ -12,6 +12,10 @@
 
 ---
 
+# The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
+
+---
+
 <div>
 <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="center" height="" width="100%" ></a></div>
 
