@@ -12,7 +12,7 @@
 
 ---
 
-# The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
+##The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
 
 ---
 
