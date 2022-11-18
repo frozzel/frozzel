@@ -10,7 +10,7 @@
 [![Salesforce](https://img.shields.io/badge/Salesforce_Cert-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
 [![GMAIL](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/Dennis_Hickox-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227) 
 
----https://img.shields.io/badge/SecurityScorecard-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white
+---
 
 ### The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
 
