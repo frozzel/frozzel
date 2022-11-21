@@ -24,7 +24,7 @@
 
 ### KETORIFIC
 
-  CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet stratagie.
+  CMS-style blog site similar to Wordpress where keto diet seekers can publish recipe's and tips to their Keto diet strategy.
 
   Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.
 
