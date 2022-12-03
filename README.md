@@ -22,9 +22,9 @@
 
 ---
 
-### KETORIFIC
+### Tikkitt
 
- Tikkett is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
+ Tikkitt is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
 
 ---
 
