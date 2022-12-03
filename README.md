@@ -18,6 +18,17 @@
 ---
 
 <div>
+<a href="https://tikkitt.herokuapp.com/"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
+
+---
+
+### KETORIFIC
+
+ Tikkett is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
+
+---
+
+<div>
 <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="center" height="" width="100%" ></a></div>
 
 ---
