@@ -18,6 +18,17 @@
 ---
 
 <div>
+<a href="https://frozzel.github.io/dennis-hickox/"><img src="https://github.com/frozzel/portfolio/blob/cb2596cc11791998a213e03e73fe9fca9ccbae84/src/assets/images/Screen%20Shot%202022-11-18%20at%209.05.56%20PM.png" align="center" height="" width="100%" ></a></div>
+
+---
+
+### Portfolio
+
+Portfolio to display all my MERN Developer skills
+
+---
+
+<div>
 <a href="https://tikkitt.herokuapp.com/"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
 
 ---
