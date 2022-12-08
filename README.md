@@ -142,6 +142,12 @@ Portfolio to display all my MERN Developer skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark)](https://github.com/frozzel/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frozzel&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frozzel&repo=convoychat" />
+</a>
 
 
 [GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
