@@ -140,6 +140,6 @@ Portfolio to display all my MERN Developer skills
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel)](https://github.com/frozzel/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=radical)
 
 [GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
