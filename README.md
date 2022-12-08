@@ -143,7 +143,7 @@ Portfolio to display all my MERN Developer skills
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark)](https://github.com/frozzel/github-readme-stats)
 
 <a href="https://github.com/frozzel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" />
+  <img align="center" height="40px" width=""  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" />
 </a>
 <a href="https://github.com/frozzel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark" />
