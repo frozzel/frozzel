@@ -143,7 +143,7 @@ Portfolio to display all my MERN Developer skills
 
 
 <a href="https://github.com/frozzel/github-readme-stats">
-  <img align="center" height="200px" width="49%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" />
+  <img align="center" height="200px" width=""  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" />
 </a>
 <a href="https://github.com/frozzel/github-readme-stats">
   <img align="center"  height="200px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark" />
