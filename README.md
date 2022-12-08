@@ -149,6 +149,4 @@ Portfolio to display all my MERN Developer skills
   <img align="right"  height="" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark" />
 </a>
 
----
 
-[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
