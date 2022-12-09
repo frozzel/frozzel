@@ -113,6 +113,13 @@ Portfolio to display all my MERN Developer skills
  
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200px" width="58%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" /><img align="center"  height="200px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark" />
+</a>
+
+---
+
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -138,15 +145,11 @@ Portfolio to display all my MERN Developer skills
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" title="graphQL" alt="graphQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
 </p>
 
 
----
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" width="58%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=dark&hide=issues" /><img align="center"  height="200px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=dark" />
-</a>
 
 
 ---
