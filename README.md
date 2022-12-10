@@ -146,7 +146,7 @@ Portfolio to display all my MERN Developer skills
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/handlebars/handlebars-original-wordmark.svg" title="handlebars" alt="handlebars" width="40" height="40" class="icon icon-red"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/handlebars/handlebars-original-wordmark.svg" title="handlebars" alt="handlebars" width="40" height="40" fill:"red"/>&nbsp;
 </p>
 
 
