@@ -89,27 +89,8 @@ Portfolio to display all my MERN Developer skills
  
 ---
 
-<div> 
- <a href="http://frozzel.github.io/GlobalEquity/"><img src="https://github.com/frozzel/GlobalEquity/blob/main/scr/Shot.png" align="center" height="" width="100%" ></a></div>
- 
- ---
- 
-### GLOBAL EQUITY
-
-  Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
-
-  Learn testing with TDD and gain more Node JS skills.  The Profile builder creates a Web page based on user input of thier projects team.  Quickly generate Development teams basic information.
- 
----
-
-<div> 
- <a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="100%" ></a></div>
- 
- ---
- 
-### CLASS NOTE TAKER
-
-  Application for writing and saving notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  My mootivation was to bring together both front end and back end user/server enviroment with express and heroku!  This project will help me and other students save and track there class notes!
+<a href="https://frozzel.github.io/CupOTears/" ><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="49%" ></a>
+ <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="center" height="" width="49%" ></a>
  
 ---
 
@@ -118,7 +99,6 @@ Portfolio to display all my MERN Developer skills
  CLASS NOTE TAKER | GLOBAL EQUITY | 
  | :---: | :---: | 
   Application for writing and saving notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  My mootivation was to bring together both front end and back end user/server enviroment with express and heroku!  This project will help me and other students save and track there class notes! |  Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Learn testing with TDD and gain more Node JS skills.  The Profile builder creates a Web page based on user input of thier projects team. |
- | :--- | :--- | 
 
 
 
