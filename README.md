@@ -113,7 +113,7 @@ Portfolio to display all my MERN Developer skills
  
 ---
 
-<div  align="center" height="200px" width="50%" > <a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="100%" ></a></div>
+<div  align="center" height="200px" width="50%" > <a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="50%" ></a></div>
 
 
 
