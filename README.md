@@ -66,26 +66,10 @@ Portfolio to display all my MERN Developer skills
   As a member of the flyguys site, the user can have an interactive experience by creating a personal profile, posting personal drone footage, attending and/or creating meetups with the drone community locally or internationally.
   
 ---
-   
-<div> 
- <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="center" height="" width="100%" ></a></div>
- 
- ---
- 
-### WEATHER DASHBOARD
 
-   Weather dashboard to display current and five day forecast based on users city of choose!
- 
----
+<a href="https://flyguys.herokuapp.com/" ><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="center" height="" width="49%" ></a>
+ <a href="https://ketorific.herokuapp.com/"><img src="https://github.com/frozzel/KETORIFIC/blob/fca1ef859a415ade2333a08f1d01efc39f47b20c/public/image/Screen%20Shot%202022-11-02%20at%204.44.38%20PM.png" align="center" height="" width="49%" ></a>
 
-<div> 
- <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="100%" ></a></div>
- 
- ---
- 
-###  CupOTears
-
-  When you arrive to the site you will see a search bar to search popular coffee beverages from around the world. Explore some of your favorite beverages or check out some new ones. The autocomplete feature displays a drop down list of available drinks to search. If you have found yourself on our site, you must love coffee as much as we do. So take a look and find yourself the perfect drink to pour your tears into. Once you choose a beverage to search, the results will diplay on the right side of the page with ,a detailed description of the drink, it's ingredients, nutrition facts, and a beautiful image of the beverage. The search results are pulled from calling two different server-side APIs. SampleApis gave us the description, image, and ingredients of each coffee drink and Nutritionix provided the results for the nutrition facts. We've also included a Coffee Notes section where you can record which drinks you are interested in trying or just anything you want to jot down. The notes will be displayed in your computer's local storage so when you return to the page your notes will still be there.
  
 ---
 
