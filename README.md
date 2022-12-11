@@ -79,7 +79,7 @@ Portfolio to display all my MERN Developer skills
 ---
 
 <div> 
- <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="100%" ></a></div>
+ <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="50%" ></a></div>
  
  ---
  
