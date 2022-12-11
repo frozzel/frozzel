@@ -79,7 +79,7 @@ Portfolio to display all my MERN Developer skills
 ---
 
 <div> 
- <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="50%" ></a></div>
+ <a href="https://frozzel.github.io/CupOTears/"><img src="https://github.com/frozzel/CupOTears/blob/main/assets/images/Screen%20Shot%202022-10-02%20at%208.17.24%20PM.png" align="center" height="" width="100%" ></a></div>
  
  ---
  
@@ -113,9 +113,9 @@ Portfolio to display all my MERN Developer skills
  
 ---
 
-<div  align="center" height="200px" width="50%" > <a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="50%" ></a>  ### CLASS NOTE TAKER
+<div  align="center" height="200px" width="50%" >   ### CLASS NOTE TAKER
 
-  Application for writing and saving notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  My mootivation was to bring together both front end and back end user/server enviroment with express and heroku!  This project will help me and other students save and track there class notes!</div>
+  Application for writing and saving notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  My mootivation was to bring together both front end and back end user/server enviroment with express and heroku!  This project will help me and other students save and track there class notes!</div><a href="https://class-note-taker-project.herokuapp.com/"><img src="https://github.com/frozzel/Class-Notes/blob/main/public/assets/image/Screen%20Shot%202022-10-13%20at%2010.26.57%20PM.png" align="center" height="" width="50%" ></a>
 
 
 
