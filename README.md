@@ -93,7 +93,7 @@ Portfolio to display all my MERN Developer skills
  <a href="https://frozzel.github.io/Climate-Change/"><img src="https://github.com/frozzel/Climate-Change/blob/main/assets/images/Shot.png" align="center" height="" width="49%" ></a>
 CupOTears | WEATHER DASHBOARD
 | :---: | :---: | 
-| Application that merges two REST API searches into one! |  Weather dashboard to display current and five day forecast based on users city of choose! |
+| Application that merges two REST API searches into one! Uses REGEX to auto populate search |  Weather dashboard to display current and five day forecast based on users city of choose! |
  
 ---
 
