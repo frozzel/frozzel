@@ -24,11 +24,7 @@
 
 ### INDULGE
 
-Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments.
-
--Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side.
-
--React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
+Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments. Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side. React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
 
 ---
 
