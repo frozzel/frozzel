@@ -18,15 +18,20 @@
 ---
 
 <div>
-<a href="https://frozzel.github.io/dennis-hickox/"><img src="https://github.com/frozzel/portfolio/blob/cb2596cc11791998a213e03e73fe9fca9ccbae84/src/assets/images/Screen%20Shot%202022-11-18%20at%209.05.56%20PM.png" align="center" height="" width="100%" ></a></div>
+<a href="https://indulge.herokuapp.com/"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/Untitled.gif" align="center" height="" width="100%" ></a></div>
 
 ---
 
-### Portfolio
+### INDULGE
 
-Portfolio to display all my MERN Developer skills. This application is a example of a front-end create a React app case usage. It utilizes email contact forms and animate.css, iframe video streaming, React-router-dom technologies.
+Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments.
+
+-Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side.
+
+-React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
 
 ---
+
 
 <div>
 <a href="https://tikkitt.herokuapp.com/"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
@@ -40,16 +45,15 @@ Portfolio to display all my MERN Developer skills. This application is a example
 ---
 
 <div>
-<a href="https://flyguys.herokuapp.com/"><img src="https://github.com/frozzel/Flyguys/blob/7dff98da229666f09d9d43d29f6f97deb2fe82f5/public/image/Screen%20Shot%202022-11-07%20at%2011.45.18%20PM.png" align="center" height="" width="100%" ></a></div>
+<a href="https://frozzel.github.io/dennis-hickox/"><img src="https://github.com/frozzel/portfolio/blob/cb2596cc11791998a213e03e73fe9fca9ccbae84/src/assets/images/Screen%20Shot%202022-11-18%20at%209.05.56%20PM.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
-### FLYGUYS
+### Portfolio
 
- A social app for drone pilots and enthusiasts to share their high flying footage! The user can sign up to create an account and begin viewing an awesome collection of drone footage. As a member of the flyguys site, the user can have an interactive experience by creating a personal profile, posting personal drone footage, attending and/or creating meetups with the drone community locally or internationally. Motivation for the site was to build a complete full stack application that involves database integration with mysql, heroku, Sequelize and a express-session npm package for authentication.
+Portfolio to display all my MERN Developer skills. This application is a example of a front-end create a React app case usage. It utilizes email contact forms and animate.css, iframe video streaming, React-router-dom technologies.
 
 ---
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="200px" width="58%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=transparent&hide=issues" /><img align="center"  height="200px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=transparent" />
