@@ -18,7 +18,7 @@
 ---
 
 <div>
-<a href="https://indulge.herokuapp.com/"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/Untitled.gif" align="center" height="" width="100%" ></a></div>
+<a href="https://indulge.herokuapp.com/"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
