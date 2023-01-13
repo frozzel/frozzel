@@ -57,7 +57,7 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 Portfolio to display all my MERN Developer skills. This application is a example of a front-end create a React app case usage. It utilizes email contact forms and animate.css, iframe video streaming, React-router-dom technologies. Moved to AWS S3 static site!
 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/dennis-hickox) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://frozzel.github.io/dennis-hickox/) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/) [![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white)](dlj6es7866r7h.cloudfront.net)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/dennis-hickox) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://frozzel.github.io/dennis-hickox/) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/) [![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white)](https://dlj6es7866r7h.cloudfront.net)
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
