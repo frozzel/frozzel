@@ -27,7 +27,7 @@
 Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments. Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side. React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX)[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://indulge.herokuapp.com/)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://indulge.herokuapp.com/) [![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)](https://indulge.herokuapp.com/)
 
 
 ---
@@ -41,6 +41,9 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 ### Tikkitt
 
  Tikkitt is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
+ 
+ 
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/Tikkitt) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://tikkitt.herokuapp.com/)
 
 ---
 
@@ -52,6 +55,9 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 ### Portfolio
 
 Portfolio to display all my MERN Developer skills. This application is a example of a front-end create a React app case usage. It utilizes email contact forms and animate.css, iframe video streaming, React-router-dom technologies. Moved to AWS S3 static site!
+
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/dennis-hickox) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://frozzel.github.io/dennis-hickox/) [![AWS EC2](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/portfolio)
 
 ---
 
