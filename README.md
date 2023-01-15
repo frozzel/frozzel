@@ -60,9 +60,12 @@ Portfolio to display all my MERN Developer skills. This application is a example
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/dennis-hickox) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://frozzel.github.io/dennis-hickox/) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/) [![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white)](https://dlj6es7866r7h.cloudfront.net)
 
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+---
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="200px" width="58%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=transparent&hide=issues" /><img align="center"  height="200px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=transparent" />
-</a> -->
+</a>
 
 ---
 
