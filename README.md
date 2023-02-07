@@ -78,9 +78,9 @@ Portfolio to display all my MERN Developer skills. This application is a example
 ---
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="200px" width="55%"  src="https://github-readme-stats.vercel.app/api?username=frozzel&show_icons=true&theme=transparent&hide=issues" /><img align="center"  height="200px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozzel&layout=compact&show_icons=true&theme=transparent&langs_count=6" />
-</a>
+</a> -->
 
 ---
 
