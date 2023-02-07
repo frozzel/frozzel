@@ -18,7 +18,7 @@
 ---
 
 <div>
-<a href="https://narcissist-social.herokuapp.com/"><img src="https://github.com/frozzel/narcissistSocial/blob/007c7688e0d778a3d49000ac61efbdb9b7141811/s1.png" align="center" height="" width="100%" ></a></div>
+<a href="https://narcissist-social.herokuapp.com/"><img src="https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
