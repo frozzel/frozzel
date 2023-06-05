@@ -131,5 +131,5 @@ Portfolio to display all my MERN Developer skills. This application is a example
 ---
 
 
-[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/) Check out these cool badges 😎 !!!!
+[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/) Check out these cool badges 😎
 
