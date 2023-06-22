@@ -122,6 +122,8 @@ Portfolio to display all my MERN Developer skills. This application is a example
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/digitalocean/digitalocean-original.svg" title="digitalocean" alt="digitalocean" width="40" height="40" />&nbsp;
+
 </p>
 
 
