@@ -18,6 +18,21 @@
 ---
 
 <div>
+<a href="https://indulge.herokuapp.com/"><img src="[https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png](https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png)" align="center" height="" width="100%" ></a></div>
+
+---
+
+### Dollar4schollar
+
+This Lottery is open for College and University student Country wide. With access to an edu administered email address you are qualified to win the weekly pot. The pot submissions will be sorted through and pulled weekly for a winner. Keep an eye out for your emails! You may have the luck of the draw. The Development utilizes a multitude of integrations including: Stripe, Cloudinary, Emailjs, Brevo (email client & CRM).
+
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/dollar4scholar-client) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://dollar4scholar.com)
+
+
+---
+
+<div>
 <a href="https://narcissist-social.herokuapp.com/"><img src="https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png" align="center" height="" width="100%" ></a></div>
 
 ---
