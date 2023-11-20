@@ -18,7 +18,7 @@
 ---
 
 <div>
-<a href="https://indulge.herokuapp.com/"><img src="[https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png](https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png)" align="center" height="" width="100%" ></a></div>
+<a href="https://dollar4scholar.com/"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png](https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png)" align="center" height="" width="100%" ></a></div>
 
 ---
 
