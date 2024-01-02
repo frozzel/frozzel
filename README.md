@@ -18,7 +18,7 @@
 ---
 
 <div>
-<a href="https://dollar4scholar.com/"><img src="https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png" align="center" height="" width="100%" ></a></div>
+<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/meta-verse/blob/7967a53566d4110dbe22bd0c91a825b164a42f31/src/assets/images/Screenshot%20Meta-1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
