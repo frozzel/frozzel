@@ -22,6 +22,23 @@
 
 ---
 
+### Meta-Verse ChatGpt Integration
+
+Introducing our cutting-edge web development project that seamlessly integrates A-Frame.io, a powerful framework for building immersive virtual reality experiences, with the advanced capabilities of ChatGPT and the Web Speech API.
+
+Immerse yourself in a world where virtual reality meets artificial intelligence, as we bring together A-Frame's versatility with the ability to interact and communicate using natural language processing. Navigate through captivating VR environments and engage in dynamic conversations with our integrated ChatGPT.
+
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
+
+
+---
+
+<div>
+<a href="https://dollar4scholar.com/"><img src="https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png" align="center" height="" width="100%" ></a></div>
+
+---
+
 ### Dollar4schollar
 
 This Lottery is open for College and University student Country wide. With access to an edu administered email address you are qualified to win the weekly pot. The pot submissions will be sorted through and pulled weekly for a winner. Keep an eye out for your emails! You may have the luck of the draw. The Development utilizes a multitude of integrations including: Stripe, Cloudinary, Emailjs, Brevo (email client & CRM).
