@@ -95,7 +95,7 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 ---
 
 <div>
-<a href="http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/"><img src="https://github.com/frozzel/portfolio/blob/cb2596cc11791998a213e03e73fe9fca9ccbae84/src/assets/images/Screen%20Shot%202022-11-18%20at%209.05.56%20PM.png" align="center" height="" width="100%" ></a></div>
+<a href="http://dennis-hickox-portfolio.s3-website-us-east-1.amazonaws.com/"><img src="https://github.com/frozzel/portfolio-dennis/blob/bf2d3ecb395f40be3aa9b3f15e1484d84464fd20/src/assets/img/ScreenShot-1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
