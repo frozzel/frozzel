@@ -106,10 +106,15 @@ Welcome to Dennis Hickox's Web Development Universe!
 🚀 Elevate your digital experience with a glimpse into the world of cutting-edge web development. I am Dennis Hickox, a passionate and innovative web developer dedicated to transforming ideas into seamless, interactive online experiences.
 
 What Sets Me Apart:
+
 ✨ Expertise: Proficient in a diverse range of web technologies, from front-end marvels like HTML, CSS, React, and JavaScript to back-end mastery with languages like Node.js and Python.
+
 🎨 Design Finesse: Combining functionality with aesthetics, I craft visually stunning websites that captivate and engage users.
+
 🛠️ Problem Solver: Embracing challenges as opportunities, I thrive on finding efficient and elegant solutions to complex coding puzzles.
+
 🤝 Collaboration: A team player at heart, I excel in collaborative environments, ensuring a seamless integration of design and functionality.
+
 
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/portfolio-dennis) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://portfolio-xbg73.ondigitalocean.app/)
