@@ -56,7 +56,7 @@ This Lottery is open for College and University student Country wide. With acces
 
 ### Wheel House Studios
 
-Welcome to the GitHub repository for Wheel House Studios, a premier wedding photography service dedicated to capturing your special moments with elegance and creativity. Our goal is to provide timeless, beautiful images that tell the story of your love and celebration. Wheel House Studios specializes in wedding photography, offering a range of services designed to fit your unique vision. Our team of skilled photographers is passionate about creating stunning visual narratives that you will cherish for a lifetime.
+Welcome to the GitHub repository for Wheel House Studios, a premier wedding photography service dedicated to capturing your special moments with elegance and creativity. Our goal is to provide timeless, beautiful images that tell the story of your love and celebration. Wheel House Studios specializes in wedding photography, offering a range of services designed to fit your unique vision. This Development is based on a Create A React App with a HoneyBook form integration for the client.
 
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/wheelhousestudios) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://wheelhousestudios.org)
