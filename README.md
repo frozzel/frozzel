@@ -50,6 +50,21 @@ This Lottery is open for College and University student Country wide. With acces
 ---
 
 <div>
+<a href="https://wheelhousestudios.org/"><img src="https://github.com/frozzel/wheelhousestudios/blob/fe180da8cdb694a044e93f2f792a9b79289466fc/src/images/Screenshot1.png" align="center" height="" width="100%" ></a></div>
+
+---
+
+### Wheel House Studios
+
+Welcome to the GitHub repository for Wheel House Studios, a premier wedding photography service dedicated to capturing your special moments with elegance and creativity. Our goal is to provide timeless, beautiful images that tell the story of your love and celebration. Wheel House Studios specializes in wedding photography, offering a range of services designed to fit your unique vision. Our team of skilled photographers is passionate about creating stunning visual narratives that you will cherish for a lifetime.
+
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/wheelhousestudios) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://wheelhousestudios.org)
+
+
+---
+
+<div>
 <a href="https://narcissist-social.herokuapp.com/"><img src="https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png" align="center" height="" width="100%" ></a></div>
 
 ---
