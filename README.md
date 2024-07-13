@@ -31,6 +31,9 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
 
+<div>
+<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/frozzel/blob/63a9fc8f1afe7447e8074be5e67a79bfa6c3c591/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif" align="center" height="" width="100%" ></a></div>
+
 
 ---
 
