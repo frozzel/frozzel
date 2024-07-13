@@ -35,6 +35,31 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 ---
 
 <div>
+<a href="https://cgipropainters.com/"><img src="https://github.com/frozzel/cgi-pro-painters/blob/16c71319c5d5fb890c1149a39f0759a7a25fef34/src/images/Screenshot1.png" align="center" height="" width="100%" ></a></div>
+
+---
+
+### CGI Pro Painters
+
+#### Client-Side Features
+
+**Google Analytics Integration**  
+We track and analyze website traffic using Google Analytics, providing insights into user behavior to help us improve our services.
+
+**HubSpot Form and CTA Integration**  
+Integration with HubSpot forms and CTAs enhances our lead generation and customer engagement, enabling effective lead capture and efficient customer relationship management.
+
+#### Server-Side Features
+
+**ChatGPT Auto Content Publisher**  
+Our server-side features include a ChatGPT-powered auto content publisher that generates and posts content to our Twitter, Instagram, and Facebook accounts, ensuring a consistently updated and engaging social media presence.
+
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/cgi-pro-painters) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://cgipropainters.com)
+
+
+---
+
+<div>
 <a href="https://dollar4scholar.com/"><img src="https://github.com/frozzel/dollar4scholar-client/blob/4cbaa00f9a5b4302c6f56005e6e9e612ccc5a00f/src/assets/img/screenshots/sc-0.png" align="center" height="" width="100%" ></a></div>
 
 ---
