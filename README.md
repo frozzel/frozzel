@@ -13,7 +13,20 @@
 
 ---
 
-### The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
+<div>
+<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/frozzel/blob/63a9fc8f1afe7447e8074be5e67a79bfa6c3c591/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif" align="center" height="" width="100%" ></a></div>
+
+---
+
+### AI Auto Content Creation Server
+
+Welcome to our AI server, where the magic of ChatGPT meets the dynamic world of social media and customer relationship management! Imagine having a tireless content creator and social media manager who works around the clock, crafting engaging posts, insightful articles, and personalized messages—all tailored to your brand's unique voice. Our innovative solution integrates seamlessly with HubSpot, LinkedIn, Instagram, Facebook, and Twitter, making content creation and distribution a breeze.
+
+Say goodbye to the tedious task of drafting and scheduling posts. Our AI server takes care of everything, from generating creative content to ensuring it reaches the right audience at the right time. Whether you're nurturing leads on HubSpot, building professional connections on LinkedIn, sharing stunning visuals on Instagram, or engaging with followers on Facebook and Twitter, our AI server has got you covered.
+
+But we don't stop there! Our platform's intuitive design ensures that you stay in control, with the flexibility to tweak and customize content as you see fit. Experience the future of automated content creation and social media management, and watch your online presence soar to new heights. Embrace the fun and efficiency of AI-powered marketing with our game-changing solution!
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/uni-server)
 
 ---
 
@@ -30,23 +43,6 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
-
----
-
-<div>
-<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/frozzel/blob/63a9fc8f1afe7447e8074be5e67a79bfa6c3c591/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif" align="center" height="" width="100%" ></a></div>
-
----
-
-### AI Auto Content Creation Server
-
-Welcome to our AI server, where the magic of ChatGPT meets the dynamic world of social media and customer relationship management! Imagine having a tireless content creator and social media manager who works around the clock, crafting engaging posts, insightful articles, and personalized messages—all tailored to your brand's unique voice. Our innovative solution integrates seamlessly with HubSpot, LinkedIn, Instagram, Facebook, and Twitter, making content creation and distribution a breeze.
-
-Say goodbye to the tedious task of drafting and scheduling posts. Our AI server takes care of everything, from generating creative content to ensuring it reaches the right audience at the right time. Whether you're nurturing leads on HubSpot, building professional connections on LinkedIn, sharing stunning visuals on Instagram, or engaging with followers on Facebook and Twitter, our AI server has got you covered.
-
-But we don't stop there! Our platform's intuitive design ensures that you stay in control, with the flexibility to tweak and customize content as you see fit. Experience the future of automated content creation and social media management, and watch your online presence soar to new heights. Embrace the fun and efficiency of AI-powered marketing with our game-changing solution!
-
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/uni-server)
 
 ---
 
