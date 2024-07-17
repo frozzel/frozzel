@@ -215,6 +215,8 @@ What Sets Me Apart:
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/meta-icon.png" title="Meta" alt="Meta" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" title="Hubspot" alt="Hubspot" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="Gemini" alt="Gemini" width="40" height="40" />&nbsp;
+
   
 </p>
 
