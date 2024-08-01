@@ -230,5 +230,5 @@ What Sets Me Apart:
 ---
 
 
-[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/) Check out these cool badges 😎😎
+[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/) Check out these cool badges 😎
 
