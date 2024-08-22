@@ -45,6 +45,20 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
 
 ---
+<div>
+<a href="https://github.com/frozzel/React-Native-Hello-World/"><img src="https://github.com/frozzel/React-Native-Hello-World/blob/58601ddb14486b7914b1f5a326d4bf4b5d6b8856/assets/images/iphone1.001.png" align="center" height="" width="100%" ></a></div>
+
+---
+
+### React Native Expo (Axios, Contacts, Maps, Location Services)
+
+This Expo project is a simple React Native application that demonstrates how to connect to an external API using Axios. The app is designed to fetch and display contact information from a HubSpot CRM, showcasing the basic functionality of an HTTP GET request in a mobile application environment. Additionally, it incorporates functionalities for accessing device contacts and current location tracking using Expo modules.
+
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/React-Native-Hello-World)
+
+
+---
+
 
 <div>
 <a href="https://cgipropainters.com/"><img src="https://github.com/frozzel/cgi-pro-painters/blob/16c71319c5d5fb890c1149a39f0759a7a25fef34/src/images/Screenshot1.png" align="center" height="" width="100%" ></a></div>
