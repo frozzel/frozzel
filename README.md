@@ -5,10 +5,9 @@
 
   Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
 
-<div align='center'>
-\[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
-[![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://portfolio-xbg73.ondigitalocean.app/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeHPkw1Uk9QhMTu35Yf1FBQ/featured) [![Hubspot](https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=HubSpot&logoColor=white)](https://drive.google.com/file/d/1CP9By-ne-0wNJV5oPaMWgpZTmYzfDXlg/view?usp=sharing) [![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://skillshop.exceedlms.com/profiles/a8fa8522096840549f2aa0beac72bc60) \
-</div>
+
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
+[![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://portfolio-xbg73.ondigitalocean.app/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeHPkw1Uk9QhMTu35Yf1FBQ/featured) [![Hubspot](https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=HubSpot&logoColor=white)](https://drive.google.com/file/d/1CP9By-ne-0wNJV5oPaMWgpZTmYzfDXlg/view?usp=sharing) [![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://skillshop.exceedlms.com/profiles/a8fa8522096840549f2aa0beac72bc60) 
 
 > [!WARNING]
 > Some sites use Heroku which sleeps inactive sites to conserve on resources. This may slow load times
@@ -251,6 +250,4 @@ What Sets Me Apart:
 
 ## ![](https://komarev.com/ghpvc/?username=frozzel&label=PROFILE+VIEWS&style=for-the-badge)
 
-
----
 
