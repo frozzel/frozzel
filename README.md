@@ -18,9 +18,9 @@
 ---
 
 ### AI Auto Content Creation Server  <sup>`v3.2.1`</sup>
-<sub>  Dennis Hickox |  ☁️ 678,778  |  ⭐⭐⭐⭐⭐ (29) </sub>
+<sub>  Dennis Hickox |  ⚙️ Auto Updates  |  ⭐⭐⭐⭐⭐ (29) </sub>
 
-[![Github license](https://img.shields.io/badge/Install-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app)   [![Github license](https://img.shields.io/badge/Disable-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app) ⚙️ Auto Updates
+[![Github license](https://img.shields.io/badge/Install-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app)   [![Github license](https://img.shields.io/badge/Disable-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app) 
 
 
 
