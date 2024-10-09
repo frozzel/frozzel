@@ -17,7 +17,8 @@
 
 ---
 
-### AI Auto Content Creation Server  **`v3.2.1`** 
+### AI Auto Content Creation Server  <sup>`v3.2.1`</sup>
+| Dennis Hickox | ☁️ 678 | ⭐⭐⭐⭐⭐(29) |
 
 Welcome to our AI server, where the magic of ChatGPT meets the dynamic world of social media and customer relationship management! Imagine having a tireless content creator and social media manager who works around the clock, crafting engaging posts, insightful articles, and personalized messages—all tailored to your brand's unique voice. Our innovative solution integrates seamlessly with HubSpot, LinkedIn, Instagram, Facebook, and Twitter, making content creation and distribution a breeze.
 
