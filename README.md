@@ -17,8 +17,7 @@
 
 ---
 
-### 
-**AI Auto Content Creation Server**  <sup>`v3.2.1`</sup>
+### AI Auto Content Creation Server  <sup>`v3.2.1`</sup>
 
 <sub>  Dennis Hickox |  ⚙️ Auto Updates  |  ⭐⭐⭐⭐⭐ (29) </sub>
 
