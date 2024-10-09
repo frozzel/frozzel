@@ -21,7 +21,7 @@
 
 <sub>  Cyrus Group Inv |  ⚙️ Auto Updates  |  ⭐⭐⭐⭐⭐ (29) </sub>
 
-[![Github license](https://img.shields.io/badge/Install-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app)   [![Github license](https://img.shields.io/badge/Disable-0275d8.svg)](https://sea-turtle-app-z2bd9.ondigitalocean.app) 
+[![Github license](https://img.shields.io/badge/Install-0275d8.svg)](https://github.com/frozzel/uni-server)   [![Github license](https://img.shields.io/badge/Information-0275d8.svg)](https://cyrusgroupinnovations.com) 
 
 
 
