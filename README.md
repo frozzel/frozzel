@@ -9,9 +9,6 @@
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
 [![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://portfolio-xbg73.ondigitalocean.app/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeHPkw1Uk9QhMTu35Yf1FBQ/featured) [![Hubspot](https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=HubSpot&logoColor=white)](https://drive.google.com/file/d/1CP9By-ne-0wNJV5oPaMWgpZTmYzfDXlg/view?usp=sharing) [![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://skillshop.exceedlms.com/profiles/a8fa8522096840549f2aa0beac72bc60) 
 
-> [!WARNING]
-> Some sites use Heroku which sleeps inactive sites to conserve on resources. This may slow load times
-
 
 ---
 
@@ -119,6 +116,9 @@ Ruby on Rails social media mock application of Instagram. This application uses 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://narcissist-social.herokuapp.com/) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](https://narcissist-social.herokuapp.com/) [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)](https://narcissist-social.herokuapp.com/)
 
 
+> [!WARNING]
+> Heroku sleeps inactive sites to conserve on resources. This may slow load times
+
 ------------
 
 <div>
@@ -132,6 +132,9 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://indulge.herokuapp.com/) [![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)](https://youtu.be/yZqc9ZoLggI)
+
+> [!WARNING]
+> Heroku sleeps inactive sites to conserve on resources. This may slow load times
 
 
 ---
@@ -148,6 +151,9 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
  
  
  [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/Tikkitt) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://tikkitt.herokuapp.com/)
+
+> [!WARNING]
+> Heroku sleeps inactive sites to conserve on resources. This may slow load times
 
 ---
 
