@@ -19,7 +19,7 @@
 
 ### AI Auto Content Creation Server  <sup>`v3.2.1`</sup>
 <sub>  Dennis Hickox |  ☁️ 678,778  |  ⭐⭐⭐⭐⭐ (29) </sub>
-https://img.shields.io/badge/Install-blue
+-https://img.shields.io/badge/Install-blue
 
 
 
