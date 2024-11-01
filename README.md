@@ -52,13 +52,13 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 ---
 
 <div>
-<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/THREE-REACT/blob/502a117d58117baf38625c653e6b177775ff13d2/src/assets/screen-shots/screen1.gif" align="center" height="" width="100%" ></a></div>
+<a href="https://github.com/frozzel/THREE-REACT"><img src="https://github.com/frozzel/THREE-REACT/blob/502a117d58117baf38625c653e6b177775ff13d2/src/assets/screen-shots/screen1.gif" align="center" height="" width="100%" ></a></div>
 
 ---
 
 ### Three.js Examples:
 
-Welcome to the Three.js project, where we explore creating a 3D animation featuring a spinning cube with orbiting spheres, all rendered in the browser using WebGL without any plugins. This project demonstrates the basic setup and use of Three.js, along with implementing mouse controls for user interaction.
+👋 Welcome to our Three.js React application, which showcases a variety of use cases for the Three.js library. This project presents an array of 3D animations 🚀 and interactive features rendered directly in the browser using WebGL, without the need for any additional plugins. 👽 Explore the creative possibilities with interactive 3D graphics, including spinning cubes, orbiting spheres, and more, all while navigating the interface with intuitive mouse controls. 🛸 This application offers a comprehensive introduction to setting up and utilizing Three.js in a React environment.
 
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/THREE-REACT)
