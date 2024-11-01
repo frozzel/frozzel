@@ -50,6 +50,21 @@ Immerse yourself in a world where virtual reality meets artificial intelligence,
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
 
 ---
+
+<div>
+<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/THREE-REACT/blob/502a117d58117baf38625c653e6b177775ff13d2/src/assets/screen-shots/screen1.gif" align="center" height="" width="100%" ></a></div>
+
+---
+
+### Three.js Examples:
+
+Welcome to the Three.js project, where we explore creating a 3D animation featuring a spinning cube with orbiting spheres, all rendered in the browser using WebGL without any plugins. This project demonstrates the basic setup and use of Three.js, along with implementing mouse controls for user interaction.
+
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/THREE-REACT)
+
+
+---
 <div>
 <a href="https://github.com/frozzel/React-Native-Hello-World/"><img src="https://github.com/frozzel/React-Native-Hello-World/blob/58601ddb14486b7914b1f5a326d4bf4b5d6b8856/assets/images/iphone1.001.png" align="center" height="" width="100%" ></a></div>
 
