@@ -1,5 +1,5 @@
 <div>
-<a href="https://linkedin.com/in/dennis-hickox-1b0a10227"><img src="https://github.com/frozzel/frozzel/blob/77f974a9417fb0bc2aa6573d4022e16e4a6eb8d6/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png" align="center" height="" width="100%" ></a></div>
+<a href="https://linkedin.com/in/dennis-hickox-1b0a10227"><img src="https://github.com/frozzel/frozzel/blob/e38f0573e67a220916127274d28bf7213367da92/Purple%20and%20Red%20Neon%20Game%20Youtube%20Intro.gif" align="center" height="" width="100%" ></a></div>
 
 ---
 
