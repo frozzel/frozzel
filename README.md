@@ -47,7 +47,7 @@ Introducing our cutting-edge web development project that seamlessly integrates 
 Immerse yourself in a world where virtual reality meets artificial intelligence, as we bring together A-Frame's versatility with the ability to interact and communicate using natural language processing. Navigate through captivating VR environments and engage in dynamic conversations with our integrated ChatGPT.
 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)[![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/meta-verse)  [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://sea-turtle-app-z2bd9.ondigitalocean.app/)
 
 ---
 
