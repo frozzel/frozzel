@@ -36,7 +36,7 @@ But we don't stop there! Our platform's intuitive design ensures that you stay i
 ---
 
 <div>
-<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/meta-verse/blob/7967a53566d4110dbe22bd0c91a825b164a42f31/src/assets/images/Screenshot%20Meta-1.png" align="center" height="" width="100%" ></a></div>
+<a href="https://sea-turtle-app-z2bd9.ondigitalocean.app/"><img src="https://github.com/frozzel/frozzel/blob/f9910f8d8cfe0a6c2a17d4e502d749182d77696b/Meta-Verse.gif" align="center" height="" width="100%" ></a></div>
 
 ---
 
