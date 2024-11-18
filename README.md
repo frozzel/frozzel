@@ -12,6 +12,24 @@
 
 ---
 
+https://github.com/user-attachments/assets/a78c300c-2a95-41fc-84b8-6ce4ca8432ef
+
+
+---
+
+### Azure 3D Avatar and ChatGPT Integration
+
+<sub>  Cyrus Group Inv |  ⚙️ Auto Updates  |  ⭐⭐⭐⭐⭐ (2635) </sub>
+
+[![Github license](https://img.shields.io/badge/Client-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR-MAIN)   [![Github license](https://img.shields.io/badge/Server-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR_BACKEND-MAIN) 
+
+
+This project is a full-stack application built using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver a dynamic, engaging user interaction experience. It integrates Azure's 3D avatar technology for life-like animations, including synchronized voice output and eye movements, and leverages OpenAI's ChatGPT for intelligent conversational responses.
+
+
+
+---
+
 <div>
 <a href="https://github.com/frozzel/uni-server"><img src="https://github.com/frozzel/frozzel/blob/63a9fc8f1afe7447e8074be5e67a79bfa6c3c591/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif" align="center" height="" width="100%" ></a></div>
 
