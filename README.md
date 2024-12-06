@@ -146,7 +146,7 @@ Welcome to the GitHub repository for Wheel House Studios, a premier wedding phot
 ---
 
 <div>
-<a href="https://narcissist-social.herokuapp.com/"><img src="https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png" align="center" height="" width="100%" ></a></div>
+<a href="https://github.com/frozzel/narcissistSocial"><img src="https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
@@ -155,16 +155,16 @@ Welcome to the GitHub repository for Wheel House Studios, a premier wedding phot
 Ruby on Rails social media mock application of Instagram. This application uses an assortment of integrations including: Gem Turbo, Devise (User Auth), active storage with AWS S3, bootstrap, Saas, Postgresql and Drag & Drop Filepond. The app is deployed over Heroku with an AWS S3 bucket for picture sharing. It has photo post sharing, likes and comments along with following capabilities.
 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://narcissist-social.herokuapp.com/) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](https://narcissist-social.herokuapp.com/) [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)](https://narcissist-social.herokuapp.com/)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)](https://github.com/frozzel/narcissistSocial)
 
 
-> [!WARNING]
-> Heroku sleeps inactive sites to conserve on resources. This may slow load times
+> [!CAUTION]
+> Site has been depreciated and is no longer serviced, please checkout the repo for more information!
 
 ------------
 
 <div>
-<a href="https://indulge.herokuapp.com/"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png" align="center" height="" width="100%" ></a></div>
+<a href="https://github.com/frozzel/LUX"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
@@ -173,17 +173,17 @@ Ruby on Rails social media mock application of Instagram. This application uses 
 Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments. Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side. React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://indulge.herokuapp.com/) [![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)](https://youtu.be/yZqc9ZoLggI)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://github.com/frozzel/LUX) [![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)](https://youtu.be/yZqc9ZoLggI)
 
-> [!WARNING]
-> Heroku sleeps inactive sites to conserve on resources. This may slow load times
+> [!CAUTION]
+> Site has been depreciated and is no longer serviced, please checkout the repo for more information!
 
 
 ---
 
 
 <div>
-<a href="https://tikkitt.herokuapp.com/"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
+<a href="https://github.com/frozzel/Tikkitt"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
@@ -192,10 +192,10 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
  Tikkitt is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
  
  
- [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/Tikkitt) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://tikkitt.herokuapp.com/)
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/Tikkitt) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://github.com/frozzel/Tikkitt)
 
-> [!WARNING]
-> Heroku sleeps inactive sites to conserve on resources. This may slow load times
+> [!CAUTION]
+> Site has been depreciated and is no longer serviced, please checkout the repo for more information!
 
 ---
 
