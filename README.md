@@ -102,7 +102,7 @@ This Expo project is a simple React Native application that demonstrates how to 
 
 
 <div>
-<a href="https://cgipropainters.com/"><img src="https://github.com/frozzel/cgi-pro-painters/blob/16c71319c5d5fb890c1149a39f0759a7a25fef34/src/images/Screenshot1.png" align="center" height="" width="100%" ></a></div>
+<a href="https://github.com/frozzel/cgi-pro-painters"><img src="https://github.com/frozzel/cgi-pro-painters/blob/16c71319c5d5fb890c1149a39f0759a7a25fef34/src/images/Screenshot1.png" align="center" height="" width="100%" ></a></div>
 
 ---
 
@@ -110,7 +110,7 @@ This Expo project is a simple React Native application that demonstrates how to 
 
 Our client-side features include Google Analytics integration, which tracks and analyzes website traffic to provide insights into user behavior and improve our services. We also integrate HubSpot forms and CTAs to enhance lead generation and customer engagement, capturing leads effectively and managing customer relationships efficiently. On the server-side, we have a ChatGPT-powered auto content publisher that generates and posts content to our Twitter, Instagram, and Facebook accounts, ensuring a consistently updated and engaging social media presence.
 
- [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/cgi-pro-painters) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://cgipropainters.com)
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/cgi-pro-painters)
 
 
 ---
