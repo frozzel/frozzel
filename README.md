@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/96ac6a56-6f0e-428d-80c0-6e03ef80d4a2
 
 This project is a full-stack application built using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver a dynamic, engaging user interaction experience. It integrates Azure's 3D avatar technology for life-like animations, including synchronized voice output and eye movements, and leverages OpenAI's ChatGPT for intelligent conversational responses.
 
-
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/TALKING_AVATAR-MAIN)  [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://avatar-ai-app-sbz2z.ondigitalocean.app/)
 
 ---
 
