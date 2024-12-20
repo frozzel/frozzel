@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/96ac6a56-6f0e-428d-80c0-6e03ef80d4a2
 
 <sub>  Cyrus Group Inv |  ⚙️ Auto Updates  |  ⭐⭐⭐⭐⭐ (2635) </sub>
 
-[![Github license](https://img.shields.io/badge/Client-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR-MAIN)   [![Github license](https://img.shields.io/badge/Server-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR_BACKEND-MAIN) 
+[![Client](https://img.shields.io/badge/Client-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR-MAIN)   [![Server](https://img.shields.io/badge/Server-0275d8.svg)](https://github.com/frozzel/TALKING_AVATAR_BACKEND-MAIN)   [![Demo](https://img.shields.io/badge/Demo-0275d8.svg)](https://meta-vr-demo-kn8pf.ondigitalocean.app) 
 
 
 This project is a full-stack application built using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver a dynamic, engaging user interaction experience. It integrates Azure's 3D avatar technology for life-like animations, including synchronized voice output and eye movements, and leverages OpenAI's ChatGPT for intelligent conversational responses.
