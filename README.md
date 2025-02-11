@@ -108,7 +108,7 @@ This Expo project is a simple React Native application that demonstrates how to 
 
 Cozy Throwie is a modern, AI-powered blogging platform built on the MERN (MongoDB, Express, React, Node.js) stack. It automates blog creation and social media posts using ChatGPT for text generation and DALL·E 3 for image generation, making content creation seamless and efficient.
 
- [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/cozythrowie) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://cozythowie.com)
+ [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/cozythrowie) [![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://cozythrowie.com)
 
 
 ---
