@@ -193,29 +193,6 @@ Mock Ecommerce site that utilizes global state and react hooks. The site is inte
 
 ---
 
-
-<div>
-<a href="https://github.com/frozzel/Tikkitt"><img src="https://github.com/frozzel/Tikkitt/blob/7661d14b60366ea6ffde38f378b495fdedc99423/client/src/images/Shot1.png" align="center" height="" width="100%" ></a></div>
-
----
-
-### Tikkitt
-
- Tikkitt is an American cloud-based software company headquartered in Atlanta, GA. It provides customer relationship management (CRM) service and also provides enterprise applications focused on customer service, marketing automation, analytics, and application development.
- 
- 
- [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/Tikkitt) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://github.com/frozzel/Tikkitt)
-
-> [!CAUTION]
-> Site has been depreciated and is no longer serviced, please checkout the repo for more information!
-
----
-
-<div>
-<a href="https://portfolio-xbg73.ondigitalocean.app/"><img src="https://github.com/frozzel/portfolio-dennis/blob/bf2d3ecb395f40be3aa9b3f15e1484d84464fd20/src/assets/img/ScreenShot-1.png" align="center" height="" width="100%" ></a></div>
-
----
-
 ### Portfolio
 
 Welcome to Dennis Hickox's Web Development Universe!
