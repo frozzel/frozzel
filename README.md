@@ -176,25 +176,6 @@ Ruby on Rails social media mock application of Instagram. This application uses 
 ------------
 
 <div>
-<a href="https://github.com/frozzel/LUX"><img src="https://github.com/frozzel/LUX/blob/debf54870f1cc3d5ce4d15aae9adf72c9d51c57a/client/public/images/indulgeScreen.png" align="center" height="" width="100%" ></a></div>
-
----
-
-### INDULGE
-
-Mock Ecommerce site that utilizes global state and react hooks. The site is integrated with stripe payments. Full stack application with mongoDb/mongoose integrations & Apollo/graphql server side. React/Apollo integration frontside utilizing global state and stripe integration along with animate.css and SASS.
-
-
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/LUX) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://github.com/frozzel/LUX) [![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)](https://youtu.be/yZqc9ZoLggI)
-
-> [!CAUTION]
-> Site has been depreciated and is no longer serviced, please checkout the repo for more information!
-
-
-
-------------
-
-<div>
 <a href="https://portfolio-xbg73.ondigitalocean.app/"><img src="https://github.com/frozzel/portfolio-dennis/blob/54a060bb99a68a8da5f31e187a294547393ea1fb/src/assets/img/ScreenShot-1.png" align="center" height="" width="100%" ></a></div>
 
 ---
